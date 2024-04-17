@@ -5,6 +5,9 @@
 body{
     background: f1fbff;
 }
+.nav-item{
+    list-style-type: none;
+}
 .section-padding{
     padding: 100 px 0;
 }
